@@ -1,6 +1,6 @@
 # UNTUK TERMUX
 
-apt update
+*apt update*
 
 apt install wget php curl git -y
 
