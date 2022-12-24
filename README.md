@@ -9,3 +9,9 @@ git clone https://github.com/Anteicodes/klik-poinku
 cd klik-poinku
 
 php run.php
+
+
+
+
+#PERHATIAN
+Sehabis Daftar Klik indomaret lewat script wajib login melalui aplikasi Original Klik atau Lewat website klikindomaret.com
