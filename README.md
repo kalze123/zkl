@@ -1,10 +1,14 @@
 # UNTUK TERMUX
 
-*apt update*
-*apt install wget php curl git -y*
-*git clone https://github.com/kalze123/zkl/edit/main/.gitignore*
-*cd klik-poinku*
-*php run.php*
+$*apt update*
+
+$*apt install wget php curl git -y*
+
+$*git clone https://github.com/kalze123/zkl/edit/main/.gitignore*
+
+$*cd klik-poinku*
+
+$*php run.php*
 
 
 
