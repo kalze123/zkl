@@ -13,6 +13,6 @@ php run.php
 
 
 #Pembelian token silahkan
-chat wa
+chat wa#
 
 wa.me/6283865283286
