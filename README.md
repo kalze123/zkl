@@ -4,7 +4,7 @@ apt update
 
 apt install wget php curl git -y
 
-git clone https://github.com/Anteicodes/klik-poinku
+git clone https://github.com/kalze123/zkl/edit/main/.gitignore
 
 cd klik-poinku
 
